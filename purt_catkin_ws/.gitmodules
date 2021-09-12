@@ -1,0 +1,9 @@
+[submodule "src/PX4-Autopilot"]
+	path = src/PX4-Autopilot
+	url = https://github.com/jgoppert/PX4-Autopilot
+[submodule "src/qualisys_ros"]
+	path = src/qualisys_ros
+	url = https://github.com/jgoppert/qualisys_ros
+[submodule "src/mavros"]
+	path = src/mavros
+	url = https://github.com/mavlink/mavros.git

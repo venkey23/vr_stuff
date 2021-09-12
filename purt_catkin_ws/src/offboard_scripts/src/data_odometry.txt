@@ -1,0 +1,2170 @@
+header: 
+  seq: 14533
+  stamp: 
+    secs: 1620763090
+    nsecs: 285505534
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251759765625
+      y: -3.8579677734375
+      z: 0.7056609497070313
+    orientation: 
+      x: -0.005062948801077417
+      y: -0.013908987113445282
+      z: 0.9998777881091762
+      w: -0.00503102474965636
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14534
+  stamp: 
+    secs: 1620763090
+    nsecs: 336345345
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251528076171875
+      y: -3.85792041015625
+      z: 0.705882080078125
+    orientation: 
+      x: -0.005643884043012736
+      y: -0.008271918567009881
+      z: 0.9999497371201146
+      w: -0.0004943032886183983
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14535
+  stamp: 
+    secs: 1620763090
+    nsecs: 455650328
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.25125244140625
+      y: -3.85899755859375
+      z: 0.7051614379882812
+    orientation: 
+      x: -0.00742032401490435
+      y: -0.009399362607977682
+      z: 0.9999107008043727
+      w: -0.005931507086654571
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14536
+  stamp: 
+    secs: 1620763090
+    nsecs: 515704571
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251722900390625
+      y: -3.85824462890625
+      z: 0.7054692993164062
+    orientation: 
+      x: -0.006207422329294394
+      y: -0.012685339561726114
+      z: 0.9998891664715852
+      w: -0.004712906076483923
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14537
+  stamp: 
+    secs: 1620763090
+    nsecs: 566605333
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251844482421875
+      y: -3.85712744140625
+      z: 0.706064208984375
+    orientation: 
+      x: -0.004842255605989535
+      y: -0.010245506563700732
+      z: 0.9999349692180487
+      w: -0.0012784509053068642
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14538
+  stamp: 
+    secs: 1620763090
+    nsecs: 646712916
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251047119140625
+      y: -3.8590634765625
+      z: 0.7050313110351563
+    orientation: 
+      x: -0.005747861188060639
+      y: -0.007899852880539725
+      z: 0.9999414739767635
+      w: -0.004647289909649655
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14539
+  stamp: 
+    secs: 1620763090
+    nsecs: 706509402
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.25124609375
+      y: -3.858299072265625
+      z: 0.705283203125
+    orientation: 
+      x: -0.004238528449563993
+      y: -0.013570520485273732
+      z: 0.999889308048298
+      w: -0.0043878657910390315
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14540
+  stamp: 
+    secs: 1620763090
+    nsecs: 765191458
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251710205078125
+      y: -3.8580791015625
+      z: 0.7057218017578125
+    orientation: 
+      x: -0.006315069209461959
+      y: -0.014729257977008912
+      z: 0.9998531606272757
+      w: -0.0060680440941851665
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14541
+  stamp: 
+    secs: 1620763090
+    nsecs: 886569358
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.25147265625
+      y: -3.858931640625
+      z: 0.7053634033203126
+    orientation: 
+      x: -0.009260792283843926
+      y: -0.008499282415979774
+      z: 0.9999046131178695
+      w: -0.005722581513097452
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14542
+  stamp: 
+    secs: 1620763090
+    nsecs: 936490966
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251580810546875
+      y: -3.85898583984375
+      z: 0.7053878784179688
+    orientation: 
+      x: -0.009506496438335418
+      y: -0.008317920967108521
+      z: 0.9998983763675572
+      w: -0.006608088322329625
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14543
+  stamp: 
+    secs: 1620763090
+    nsecs: 995224904
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.25156103515625
+      y: -3.857830078125
+      z: 0.7057819213867188
+    orientation: 
+      x: -0.003865431165026946
+      y: -0.006924634535690361
+      z: 0.9999682302196753
+      w: -0.0008073669835832297
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14544
+  stamp: 
+    secs: 1620763091
+    nsecs:  75049154
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251411865234375
+      y: -3.85902783203125
+      z: 0.7051964111328125
+    orientation: 
+      x: -0.007745947534182695
+      y: -0.0068964957635077005
+      z: 0.9999326891895148
+      w: -0.0052019043030972
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14545
+  stamp: 
+    secs: 1620763091
+    nsecs: 124924770
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251346435546875
+      y: -3.859124755859375
+      z: 0.70508251953125
+    orientation: 
+      x: -0.008483574920307449
+      y: -0.006683107635840004
+      z: 0.9999265345767301
+      w: -0.005502952345485122
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14546
+  stamp: 
+    secs: 1620763091
+    nsecs: 176725026
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251633056640625
+      y: -3.858180419921875
+      z: 0.7055387573242188
+    orientation: 
+      x: -0.006585743798710157
+      y: -0.013945774606602564
+      z: 0.9998654707182587
+      w: -0.005583861691167088
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14547
+  stamp: 
+    secs: 1620763091
+    nsecs: 236597001
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.252582275390625
+      y: -3.85615185546875
+      z: 0.7076237182617188
+    orientation: 
+      x: 0.0052975265693170496
+      y: -0.0224912474010745
+      z: 0.999731840001166
+      w: -0.0015254995614435451
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14548
+  stamp: 
+    secs: 1620763091
+    nsecs: 356038054
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251641357421875
+      y: -3.858220947265625
+      z: 0.705515625
+    orientation: 
+      x: -0.00610001070084049
+      y: -0.01221672223057038
+      z: 0.9998952468007715
+      w: -0.004798780434488923
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14549
+  stamp: 
+    secs: 1620763091
+    nsecs: 456002509
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251607421875
+      y: -3.85784814453125
+      z: 0.7059591064453125
+    orientation: 
+      x: -0.00588925317503808
+      y: -0.007151288404087494
+      z: 0.9999560853137119
+      w: -0.0014153925492939713
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14550
+  stamp: 
+    secs: 1620763091
+    nsecs: 515020641
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251823974609375
+      y: -3.859297607421875
+      z: 0.7055585327148437
+    orientation: 
+      x: -0.008927883962015166
+      y: -0.009717727846000973
+      z: 0.9998780638143147
+      w: -0.008349618593898187
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14551
+  stamp: 
+    secs: 1620763091
+    nsecs: 585352456
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.25143896484375
+      y: -3.858333984375
+      z: 0.7053722534179687
+    orientation: 
+      x: -0.006435358501348825
+      y: -0.012556207461212015
+      z: 0.999890291633328
+      w: -0.004508639323317278
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14552
+  stamp: 
+    secs: 1620763091
+    nsecs: 635970914
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251392333984375
+      y: -3.8583544921875
+      z: 0.7052683715820313
+    orientation: 
+      x: -0.0062899113686285075
+      y: -0.013430111955013075
+      z: 0.9998739356807743
+      w: -0.005671637799507222
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14553
+  stamp: 
+    secs: 1620763091
+    nsecs: 685537324
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.25188720703125
+      y: -3.857050537109375
+      z: 0.7061884155273438
+    orientation: 
+      x: -0.004117382295107014
+      y: -0.011028774941725628
+      z: 0.9999294107080007
+      w: -0.0016099870236995174
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14554
+  stamp: 
+    secs: 1620763091
+    nsecs: 746727575
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251437255859375
+      y: -3.858800048828125
+      z: 0.7053084106445312
+    orientation: 
+      x: -0.009544512803196598
+      y: -0.008271207941407932
+      z: 0.9999029514785173
+      w: -0.0058805849744839244
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14555
+  stamp: 
+    secs: 1620763091
+    nsecs: 836275357
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.25182373046875
+      y: -3.858104248046875
+      z: 0.7057234497070313
+    orientation: 
+      x: -0.006912972482965092
+      y: -0.01429606141429435
+      z: 0.9998559922596886
+      w: -0.005986841607986083
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14556
+  stamp: 
+    secs: 1620763091
+    nsecs: 915129206
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.25254541015625
+      y: -3.856319580078125
+      z: 0.7074685668945313
+    orientation: 
+      x: 0.00636433067692297
+      y: -0.021428174831075456
+      z: 0.9997497632931894
+      w: -0.0008589494480277169
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14557
+  stamp: 
+    secs: 1620763091
+    nsecs: 996662328
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251049560546875
+      y: -3.8591669921875
+      z: 0.70506298828125
+    orientation: 
+      x: -0.005724970272952374
+      y: -0.00784691173039049
+      z: 0.9999428151588656
+      w: -0.004473246787866688
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14558
+  stamp: 
+    secs: 1620763092
+    nsecs:  55148839
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.25153759765625
+      y: -3.858889404296875
+      z: 0.7054334716796875
+    orientation: 
+      x: -0.009245161026413193
+      y: -0.00771176305218881
+      z: 0.9999097843006962
+      w: -0.005956384805295938
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14559
+  stamp: 
+    secs: 1620763092
+    nsecs: 115368705
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251654296875
+      y: -3.85836572265625
+      z: 0.70547607421875
+    orientation: 
+      x: -0.007318869549046983
+      y: -0.013044946785775134
+      z: 0.9998732799468022
+      w: -0.005449452649531637
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14560
+  stamp: 
+    secs: 1620763092
+    nsecs: 176541034
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.25169677734375
+      y: -3.858259033203125
+      z: 0.7054951782226563
+    orientation: 
+      x: -0.0073972221219717835
+      y: -0.013252970285828253
+      z: 0.9998685556688836
+      w: -0.005701201178136599
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14561
+  stamp: 
+    secs: 1620763092
+    nsecs: 234755750
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251423095703125
+      y: -3.858283447265625
+      z: 0.7053197021484375
+    orientation: 
+      x: -0.005642666399324876
+      y: -0.014099999664525081
+      z: 0.9998712754846071
+      w: -0.00517570820667099
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14562
+  stamp: 
+    secs: 1620763092
+    nsecs: 334836137
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251568115234375
+      y: -3.859095703125
+      z: 0.7054840087890625
+    orientation: 
+      x: -0.006853327831255224
+      y: -0.00815889164742476
+      z: 0.9999245823792892
+      w: -0.006107130599819431
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14563
+  stamp: 
+    secs: 1620763092
+    nsecs: 386670252
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251174072265625
+      y: -3.85909130859375
+      z: 0.7050835571289062
+    orientation: 
+      x: -0.0054374011928542175
+      y: -0.007850726846670032
+      z: 0.9999421371170277
+      w: -0.004953237943044299
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14564
+  stamp: 
+    secs: 1620763092
+    nsecs: 455156746
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.25163134765625
+      y: -3.85834814453125
+      z: 0.7055929565429687
+    orientation: 
+      x: -0.007205318699132088
+      y: -0.013004642631974088
+      z: 0.9998732277861269
+      w: -0.005700180225179398
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14565
+  stamp: 
+    secs: 1620763092
+    nsecs: 506293560
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.25179345703125
+      y: -3.8570888671875
+      z: 0.70640478515625
+    orientation: 
+      x: -0.0013330967524301776
+      y: -0.011960871244522041
+      z: 0.9999275702829854
+      w: 9.828950306857284e-05
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14566
+  stamp: 
+    secs: 1620763092
+    nsecs: 556648557
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.25171240234375
+      y: -3.856487060546875
+      z: 0.7072852172851563
+    orientation: 
+      x: 0.009026959331845958
+      y: -0.022718852317505426
+      z: 0.9996972668890012
+      w: -0.0027819825834378416
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14567
+  stamp: 
+    secs: 1620763092
+    nsecs: 606794325
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.25168798828125
+      y: -3.856551513671875
+      z: 0.7072669677734374
+    orientation: 
+      x: 0.0072677430167043785
+      y: -0.02327955880242318
+      z: 0.9996945167884328
+      w: -0.004012739722766827
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14568
+  stamp: 
+    secs: 1620763092
+    nsecs: 664799191
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251610107421875
+      y: -3.856610107421875
+      z: 0.70710986328125
+    orientation: 
+      x: 0.008303711719921539
+      y: -0.02246090084291728
+      z: 0.9997093925809646
+      w: -0.002770535308372702
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14569
+  stamp: 
+    secs: 1620763092
+    nsecs: 715845811
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.252595458984375
+      y: -3.856318603515625
+      z: 0.7074677734375
+    orientation: 
+      x: 0.004863644485054067
+      y: -0.022822666228089192
+      z: 0.9997250730364589
+      w: -0.0022902002729916003
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14570
+  stamp: 
+    secs: 1620763092
+    nsecs: 775425262
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.25250048828125
+      y: -3.857154296875
+      z: 0.7069367065429687
+    orientation: 
+      x: 0.003921814376002411
+      y: -0.024526017610991997
+      z: 0.9996767415656977
+      w: -0.005432910511321259
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14571
+  stamp: 
+    secs: 1620763092
+    nsecs: 835518783
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.25162353515625
+      y: -3.8583134765625
+      z: 0.7055499267578125
+    orientation: 
+      x: -0.007056638353555619
+      y: -0.013926830910636743
+      z: 0.999861886500386
+      w: -0.005697780494415104
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14572
+  stamp: 
+    secs: 1620763092
+    nsecs: 955394296
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251823486328125
+      y: -3.8591435546875
+      z: 0.7057459106445313
+    orientation: 
+      x: -0.00838051217561085
+      y: -0.009233392722946003
+      z: 0.999891878779859
+      w: -0.00779318925427757
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14573
+  stamp: 
+    secs: 1620763093
+    nsecs:  75735779
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251881103515625
+      y: -3.8571669921875
+      z: 0.7060777587890625
+    orientation: 
+      x: -0.005017012190526603
+      y: -0.010214721202344484
+      z: 0.9999343656815898
+      w: -0.0013215026184812718
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14574
+  stamp: 
+    secs: 1620763093
+    nsecs: 125979326
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251553466796875
+      y: -3.858358154296875
+      z: 0.7053717651367187
+    orientation: 
+      x: -0.005940579254719153
+      y: -0.012574342408176006
+      z: 0.9998938012356633
+      w: -0.004355554156079561
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14575
+  stamp: 
+    secs: 1620763093
+    nsecs: 196144316
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251739990234375
+      y: -3.85820166015625
+      z: 0.7055173950195313
+    orientation: 
+      x: -0.007322220745688523
+      y: -0.014228801941601118
+      z: 0.9998519609069138
+      w: -0.006324306628670104
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14576
+  stamp: 
+    secs: 1620763093
+    nsecs: 256477789
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.252439208984375
+      y: -3.8572822265625
+      z: 0.7067647094726562
+    orientation: 
+      x: 0.002811746049777048
+      y: -0.024143662332502525
+      z: 0.9996864676701235
+      w: -0.006010632725610563
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14577
+  stamp: 
+    secs: 1620763093
+    nsecs: 335728451
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.2516591796875
+      y: -3.857873291015625
+      z: 0.7059946899414062
+    orientation: 
+      x: -0.005114147186744597
+      y: -0.008369721197307658
+      z: 0.9999515178967987
+      w: -0.0008737562029673853
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14578
+  stamp: 
+    secs: 1620763093
+    nsecs: 434979203
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.2516259765625
+      y: -3.859021728515625
+      z: 0.7053563232421876
+    orientation: 
+      x: -0.00720831763209529
+      y: -0.007637338938372371
+      z: 0.9999297311055316
+      w: -0.00549959246798557
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14579
+  stamp: 
+    secs: 1620763093
+    nsecs: 526253275
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251668212890625
+      y: -3.858267578125
+      z: 0.7056500244140625
+    orientation: 
+      x: -0.005180496213054133
+      y: -0.013337440971098576
+      z: 0.9998871098812866
+      w: -0.004588690090313729
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14580
+  stamp: 
+    secs: 1620763093
+    nsecs: 576289535
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.25163427734375
+      y: -3.8580478515625
+      z: 0.70594921875
+    orientation: 
+      x: -0.005780849418260595
+      y: -0.008142049606614616
+      z: 0.9999489622204836
+      w: -0.001535954172663995
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14581
+  stamp: 
+    secs: 1620763093
+    nsecs: 630575155
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.2512373046875
+      y: -3.858928466796875
+      z: 0.7050824584960937
+    orientation: 
+      x: -0.005794042791671357
+      y: -0.006891549555934601
+      z: 0.9999468237924253
+      w: -0.005028099372978351
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14582
+  stamp: 
+    secs: 1620763093
+    nsecs: 696926731
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.25171923828125
+      y: -3.858033203125
+      z: 0.7056304321289063
+    orientation: 
+      x: -0.006947832982801034
+      y: -0.013274211302492062
+      z: 0.999872072799047
+      w: -0.00560100596266047
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14583
+  stamp: 
+    secs: 1620763093
+    nsecs: 754886032
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251289306640625
+      y: -3.858493408203125
+      z: 0.7051670532226563
+    orientation: 
+      x: -0.00491913136732952
+      y: -0.013507437339869654
+      z: 0.9998836896728359
+      w: -0.0050959674841078075
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14584
+  stamp: 
+    secs: 1620763093
+    nsecs: 804754011
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.2515390625
+      y: -3.857824951171875
+      z: 0.70570751953125
+    orientation: 
+      x: -0.004172734220366512
+      y: -0.007013417882946484
+      z: 0.9999666878993031
+      w: 0.0001497209521727316
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14585
+  stamp: 
+    secs: 1620763093
+    nsecs: 856129747
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251213134765625
+      y: -3.8589814453125
+      z: 0.7051005859375
+    orientation: 
+      x: -0.007631645488043375
+      y: -0.008775541303801749
+      z: 0.999918152022597
+      w: -0.005333226828980198
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14586
+  stamp: 
+    secs: 1620763093
+    nsecs: 925150293
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.25124169921875
+      y: -3.859049560546875
+      z: 0.7050579833984375
+    orientation: 
+      x: -0.006114738332034261
+      y: -0.006935580031159195
+      z: 0.9999454677137259
+      w: -0.004854851885734623
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14587
+  stamp: 
+    secs: 1620763094
+    nsecs:  15488259
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251818115234375
+      y: -3.857250732421875
+      z: 0.7061398315429688
+    orientation: 
+      x: -0.004840618980998363
+      y: -0.00989139593583877
+      z: 0.9999383743490224
+      w: -0.0014056542536212337
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14588
+  stamp: 
+    secs: 1620763094
+    nsecs:  94973485
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251169921875
+      y: -3.85915283203125
+      z: 0.7050785522460937
+    orientation: 
+      x: -0.007952503856564035
+      y: -0.009303865809206743
+      z: 0.9999067218310987
+      w: -0.006061623908647196
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14589
+  stamp: 
+    secs: 1620763094
+    nsecs: 154896960
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.2515625
+      y: -3.85833935546875
+      z: 0.70546533203125
+    orientation: 
+      x: -0.005520435848779827
+      y: -0.012783404344518487
+      z: 0.9998924748905812
+      w: -0.004598024637707354
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14590
+  stamp: 
+    secs: 1620763094
+    nsecs: 204973346
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.252356689453125
+      y: -3.85728125
+      z: 0.7067525634765625
+    orientation: 
+      x: 0.003613456762535703
+      y: -0.025637825338456252
+      z: 0.9996479875173685
+      w: -0.005791395182421968
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14591
+  stamp: 
+    secs: 1620763094
+    nsecs: 255249189
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251538818359375
+      y: -3.858015380859375
+      z: 0.705688232421875
+    orientation: 
+      x: -0.00433397840276589
+      y: -0.0062553334690617565
+      z: 0.9999710168214656
+      w: 0.00023444527246068255
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14592
+  stamp: 
+    secs: 1620763094
+    nsecs: 315144749
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251766845703125
+      y: -3.859313720703125
+      z: 0.7053727416992187
+    orientation: 
+      x: -0.006896251908185069
+      y: -0.009179946133345489
+      z: 0.9999155813585834
+      w: -0.006083397122463532
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14593
+  stamp: 
+    secs: 1620763094
+    nsecs: 365849178
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251344482421875
+      y: -3.8584365234375
+      z: 0.7052904052734374
+    orientation: 
+      x: -0.003996915126776797
+      y: -0.013800579842690888
+      z: 0.9998882275939301
+      w: -0.004134186928378027
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14594
+  stamp: 
+    secs: 1620763094
+    nsecs: 455627237
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251703369140625
+      y: -3.8581298828125
+      z: 0.7056468505859375
+    orientation: 
+      x: -0.007142977538621022
+      y: -0.012833056044777046
+      z: 0.999876953541807
+      w: -0.005511087948128249
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14595
+  stamp: 
+    secs: 1620763094
+    nsecs: 526296158
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.25160546875
+      y: -3.85939501953125
+      z: 0.7056031494140625
+    orientation: 
+      x: -0.00635160518268426
+      y: -0.008579428108033822
+      z: 0.9999233305865581
+      w: -0.006274441053894024
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14596
+  stamp: 
+    secs: 1620763094
+    nsecs: 625146966
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251437255859375
+      y: -3.85926806640625
+      z: 0.7052117919921875
+    orientation: 
+      x: -0.008082634870212454
+      y: -0.007182367694003205
+      z: 0.9999260129976343
+      w: -0.005573159314836166
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14597
+  stamp: 
+    secs: 1620763094
+    nsecs: 675847006
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.25187109375
+      y: -3.85803076171875
+      z: 0.70571337890625
+    orientation: 
+      x: -0.007093567500888768
+      y: -0.01481336082471751
+      z: 0.9998447998131976
+      w: -0.006374280891943382
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14598
+  stamp: 
+    secs: 1620763094
+    nsecs: 735195677
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.2511455078125
+      y: -3.85935009765625
+      z: 0.7049690551757812
+    orientation: 
+      x: -0.006458135827009923
+      y: -0.007979432104588652
+      z: 0.9999349915712439
+      w: -0.0049643961490269395
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14599
+  stamp: 
+    secs: 1620763094
+    nsecs: 806652845
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.251431396484375
+      y: -3.85934423828125
+      z: 0.7052379760742188
+    orientation: 
+      x: -0.009976650262374286
+      y: -0.008555801241144403
+      z: 0.9998934733752449
+      w: -0.006348585164597919
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14600
+  stamp: 
+    secs: 1620763094
+    nsecs: 875915893
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.252603515625
+      y: -3.85703857421875
+      z: 0.707105712890625
+    orientation: 
+      x: 0.004041599271195868
+      y: -0.025003382489520682
+      z: 0.9996651968177754
+      w: -0.005290937191380988
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14601
+  stamp: 
+    secs: 1620763094
+    nsecs: 935793172
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.252633056640625
+      y: -3.856134033203125
+      z: 0.7075680541992188
+    orientation: 
+      x: 0.006471970009817449
+      y: -0.022262329140423278
+      z: 0.9997308860705886
+      w: -0.0008109658591333152
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
+header: 
+  seq: 14602
+  stamp: 
+    secs: 1620763094
+    nsecs: 986363374
+  frame_id: "qualisys"
+child_frame_id: "hex1"
+pose: 
+  pose: 
+    position: 
+      x: -2.249564208984375
+      y: -3.857771484375
+      z: 0.7036880493164063
+    orientation: 
+      x: -0.015089677574176376
+      y: -0.007166838621696023
+      z: 0.9998599639832184
+      w: -0.000993204533117362
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+twist: 
+  twist: 
+    linear: 
+      x: nan
+      y: nan
+      z: nan
+    angular: 
+      x: nan
+      y: nan
+      z: nan
+  covariance: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+---
